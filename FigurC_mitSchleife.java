@@ -23,7 +23,7 @@ public class FigurC_mitSchleife extends PApplet
     public void zeichneBildC() {
         circle(50,50,100);
         for(int i=1; i<4; i++){
-            rect( 5+10*i, 5+10*i, 90-20*i, 90-20*i );
+            rect( 6+10*i, 6+10*i, 88-20*i, 90-20*i );
         }
     }
 
